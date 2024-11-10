@@ -1,7 +1,9 @@
 # SKNoteBook-WordCounter
 个人笔记本字数统计器
 
-
+> 主要是给自己的两个笔记本式仓库作md文件的字数统计, 嵌入对应仓库
+> - [秋招资料](https://github.com/SpadeKTLSG/Personal-School-Recruit-Repo-Allin1)
+> - [个人知识笔记](https://github.com/SpadeKTLSG/SpadeKTLSG-Note-Allin1)
 
 
 ## 结构 Construction
@@ -21,6 +23,7 @@ main.py - 脚本文件
 
 ## 使用 Usage
 
+推荐使用可执行文件, 也可以直接运行脚本. (需要安装Python环境)
 可执行脚本制作攻略
 
 ### 安装制作器
@@ -48,7 +51,9 @@ pyinstaller —— onefile main.py
 
 PyInstaller 将创建一个“ dist”目录
 
-找到‘ main’可执行文件, 测试其
+找到‘ main’可执行文件, 抓出来测试或者改名, 随你喜欢
 
 
 ## 其他 Others
+
+这是个人py复健的一部分, 耗时2h闹着玩的, 存在很多不足, 还请见谅
